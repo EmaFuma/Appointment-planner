@@ -4,6 +4,7 @@
 
 Welcome to Appointment Planner, my first React project made with Codecademy full-stack developer learning path.
 A simple app that uses React components with hooks and consist of two pages: one for managing the appointments and the other for the contacts.
+To view the end result of the project follow this link: https://github.com/EmaFuma/Appointment-planner/tree/master/Screenshots
 
 ## Run the project on local
 
